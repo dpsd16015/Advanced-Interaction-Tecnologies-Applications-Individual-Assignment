@@ -3,7 +3,7 @@
 ### First and Last Name: Voutsaras Odyssefs 
 ### University Registration Number: dpsd16015
 ### GitHub Personal Profile: https://github.com/dpsd16015
-### Advanced Interaction Tecnologies & Applications Github Personal Repository: (Repository)[https://github.com/dpsd16015/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment]
+### Advanced Interaction Tecnologies & Applications Github Personal Repository: [Repository](https://github.com/dpsd16015/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment)
 
 # Introduction  
 Δημιουργία διαδραστικών εφαρμογών με τη χρήση προηγμένων τεχνολογιών αλληλεπίδρασης.  
